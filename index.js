@@ -14,3 +14,8 @@ app.get('/home',(req,res)=>{
     const homeData=data.data.find(h=>h.id===1);
     res.send(homeData);
 })
+
+app.get('/course',(req,res)=>{
+    const course=data.data.find(c=>c.id===2);
+    res.send(course);
+})
