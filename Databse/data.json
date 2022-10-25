@@ -1,0 +1,63 @@
+{
+  "status": true,
+  "data": [
+    {
+      "id": 1,
+      "title": "Home",
+      "image": [
+        {
+          "id": "63576dc7743f648c5d419d14",
+          "image": "https://www.mooc.org/hubfs/web-programming-languages.jpg"
+        },
+        {
+          "id": "63576dc7d26309cf875ff777",
+          "image": "https://img.freepik.com/premium-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-898.jpg?w=2000"
+        },
+        {
+          "id": "63576dc7b201b138a7484ce2",
+          "image": "https://img.freepik.com/premium-vector/isometric-programmer-coding-new-project-web-development-programming-skills-website-web-banner-illustration-project-team-engineers-website-php-html-css-js_589019-3104.jpg"
+        },
+        {
+          "id": "63576dc75fe2b148db2a6891",
+          "image": "https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-d-isometric-stereo-computer-business-office-commercial-elements-5disometric-stereocomputerbusinessoffice-sceneofficeoffice-png-image_581344.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Courses",
+      "courses": [
+        {
+          "id": "63576dc75fe2b148db2a68962",
+          "name":"Learn Data Science with R",
+          "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/28/b1f43838b245e5ba83eb345a5db2c5/Capstone.jpg?auto=format%2Ccompress&dpr=1"
+        },
+        {
+          "id": "63576dc75fe2b148db2a686581",
+          "name":"Learning Cyber Security",
+          "img":"https://static.vecteezy.com/system/resources/previews/002/212/384/original/isometric-cyber-security-free-vector.jpg"
+        },
+        {
+          "id": "63576dc75fe2b148d4b2a68457",
+          "name":"Learn Artificial Intelligence",
+          "img":"https://rentechassets.s3.amazonaws.com/common_files/swipecart/Blog/advantages-of-using-ai-in-mobile-app-development-3.gif"
+        },
+        {
+          "id": "63576dc75fe2b148db2a698132",
+          "name":"Learn Data Analysis with Pandas",
+          "img":"https://cdn.hackersandslackers.com/2020/11/pandas-reindexing.jpg"
+        },
+        {
+          "id": "63576dc75fe2b148db2a89342",
+          "name":"Learning Swift",
+          "img":"https://www.macworld.com/wp-content/uploads/2022/04/how-to-learn-swift.jpg?quality=50&strip=all&w=1024"
+        },
+        {
+          "id": "63576dc75fe2b148d47b2a66392",
+          "name":"Learn Cloude Computing From Scratch",
+          "img":"https://s3.us-east-1.amazonaws.com/storage.trumplearning.com/cmsfiles/cloud-computing-specialization-ka4x5oug.jpg"
+        }
+      ]
+    }
+  ]
+}
