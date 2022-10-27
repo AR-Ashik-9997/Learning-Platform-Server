@@ -7,19 +7,38 @@
       "image": [
         {
           "id": "63576dc7743f648c5d419d14",
-          "image": "https://www.mooc.org/hubfs/web-programming-languages.jpg"
+          "image": "https://www.mooc.org/hubfs/web-programming-languages.jpg",
+          "title": "Learn Your Favorite Coures From Online"
         },
         {
           "id": "63576dc7d26309cf875ff777",
-          "image": "https://img.freepik.com/premium-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-898.jpg?w=2000"
+          "image": "https://img.freepik.com/premium-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-898.jpg?w=2000",
+          "title": "Boost up your skills with a new way of learning.",
+          "description": "Education is not just about going to school and getting a degree.         It's about widening your knowledge and absorbing the truth about life. Knowledge is power."
         },
         {
           "id": "63576dc7b201b138a7484ce2",
-          "image": "https://img.freepik.com/premium-vector/isometric-programmer-coding-new-project-web-development-programming-skills-website-web-banner-illustration-project-team-engineers-website-php-html-css-js_589019-3104.jpg"
+          "image": "https://img.freepik.com/premium-vector/isometric-programmer-coding-new-project-web-development-programming-skills-website-web-banner-illustration-project-team-engineers-website-php-html-css-js_589019-3104.jpg",
+          "title": "Don't Limit yourself to learning",
+          "description":"you’ll work on fighting your weaknesses and improving your strengths. You’ll gain knowledge and experience in new areas, may even master a skill after some time."          
         },
         {
           "id": "63576dc75fe2b148db2a6891",
-          "image": "https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-d-isometric-stereo-computer-business-office-commercial-elements-5disometric-stereocomputerbusinessoffice-sceneofficeoffice-png-image_581344.jpg"
+          "image": "https://assets.materialup.com/uploads/4e56681c-cae9-4dee-a175-c28023c01650/preview.jpg",
+          "title": "Master the Skills to Drive your Career",
+          "description": "Become a skill person with courses,diplomas, and degrees from top universities and companies."
+        },
+        {
+          "id": "63576dc75fe2b148d24b2a51849",
+          "image": "https://www.kindpng.com/picc/m/58-584907_modern-flat-design-isometric-illustration-hd-png-download.png",
+          "title": "Start your dream today. Conquer the world.",
+          "description":"A dream doesn't become reality through magic; it takes sweat, determination and hard work."
+        },
+        {
+          "id": "63576dc75fe2b148d24g3fr458967",
+          "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/120065908/original/af35b3a1a744fdfe4aab23faa4898822461b962d/create-incredible-isometric-illustrations.png",
+          "title": "Learn Effectively that will take you towards your goal",
+          "description":"Focused, hard work is the real key to success. Keep your eyes on the goal, and just keep taking the next step towards completing it. If you aren't sure which way to do something, do it both ways and see which works better."
         }
       ]
     },
